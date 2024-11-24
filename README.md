@@ -1,5 +1,7 @@
 Detailed vulnerability scanning for open ports, including:
-Simulated checks for common services.
-Hardcoded examples of potential vulnerabilities.
-Recommendations to improve security.
-This script remains dependency-free, using only Python's built-in libraries and system commands.
+Just Run the Command:
+
+python3 advanceddomainscan.py
+
+And Enter Domain name you want to perform scan on 
+
