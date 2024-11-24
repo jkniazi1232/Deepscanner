@@ -1,5 +1,4 @@
-detailed vulnerability scanning for open ports, including:
-
+Detailed vulnerability scanning for open ports, including:
 Simulated checks for common services.
 Hardcoded examples of potential vulnerabilities.
 Recommendations to improve security.
